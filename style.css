@@ -15,7 +15,6 @@ body{
     height  :80px;
     background-image  : url('images/wood-bg.png');
     background-repeat: no-repeat;
-    background-attachment: fixed;
 }
     
 #header img{
